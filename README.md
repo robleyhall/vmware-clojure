@@ -1,6 +1,6 @@
 # vmware
 
-Clojure code to use the VMware java SDK
+Clojure code to use the VMware java SDK https://github.com/vmware/vsphere-automation-sdk-java
 
 ## Usage
 
