@@ -1,0 +1,11 @@
+{:deps
+ {
+ clojure.java-time/clojure.java-time {:mvn/version "0.3.2"}
+ org.clojure/java.classpath {:mvn/version "1.0.0"}
+ com.vmware.vapi/vapi-runtime {:mvn/version "2.19.0"}
+ com.vmware.vapi/vapi-authentication {:mvn/version "2.19.0"}
+ com.vmware/vsphereautomation-client-sdk {:mvn/version "3.5.0"}
+ com.vmware/vsphere-samples-nodeps {:mvn/version "7.0.2.0"}
+ com.vmware.vsphereautomation.lookup/vsphereautomation-lookupservice {:mvn/version "1.0.0"}
+ }
+}
